@@ -1,7 +1,7 @@
 <html>
 
 <head>
-<title>Perfil de Rogelio David Quiroz San Vicente</title>
+
 </head>
 <body style="background-color: #d6eaf8;">
 <p></p>
